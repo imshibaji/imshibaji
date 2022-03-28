@@ -28,7 +28,9 @@ In my spare time, I like to watch movies or listen to Audio Stories.
 
 ### 🧰 Languages & Tools
 <br/>
-<p align="left">
+<p align="center">
+        <a href="https://php.net" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40" /></a>   
+        <a href="https://laravel.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40" /></a>
         <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
         </a>
         <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
@@ -47,7 +49,6 @@ In my spare time, I like to watch movies or listen to Audio Stories.
         <a href="https://graphql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" /> </a>
         <a href="https://nestjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="express" width="40" height="40" />
         </a>
-        <a href="https://www.prisma.io/" target="_blank"> <img src="https://bestofjs.org/logos/prisma.svg" alt="docker" width="40" height="40" /> </a>
         <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
         <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
         </a>

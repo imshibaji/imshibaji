@@ -7,7 +7,7 @@ In my spare time, I like to watch movies or listen to Audio Stories.
 #### 🧐 More About Me:
 
 - 🔭 I’m currently working on Laravel and Flutter💎
-- 🌱 I’m currently improving my skills in Project Building Architecture and Managment.
+- 🌱 I’m currently improving my skills in Machine Learning and Artificial Intelligence.
 - 👯 I’m looking to collaborate with other content creators on <a href="https://www.youtube.com/channel/UCsDIhSYNds3TcIJVUmx9RrA">YouTube</a>.
 - 💬 Ask me about Flutter and I will answer eagerly! ✌😁
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shibaji/), or [imshibaji@gmail.com](mailto:imshibaji@gmail.com)

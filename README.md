@@ -20,7 +20,7 @@ In my spare time, I like to watch movies or listen to Audio Stories.
 
 - Creating scalable apps and improving their performance.
 - SQL and NoSQL Database Management Systems.
-- Desktop application development using Flutter (Still learning).
+- Desktop application development using Flutter.
 - Cool full-stack projects.
 - Problem solving and data structures questions.
 - Movies! 😆.

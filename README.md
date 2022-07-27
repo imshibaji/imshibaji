@@ -1,12 +1,12 @@
 <h1 align="center"><👋 Hello, World! /></h1>
 
-Hi, I'm <a href="http://www.shibajidebnath.com" target="_blank">Shibaji Debnath</a>, a Laravel and Flutter developer with UI/UX design skills. Some technologies I enjoy working with include React, Angular, NestJS, AdonisJS, Firebase, and Figma. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.
+Hi, I'm <a href="http://www.shibajidebnath.com" target="_blank">Shibaji Debnath</a>, a NodeJS(ExpressJS)/ NestJS and Flutter developer with UI/UX design skills. Some technologies I enjoy working with include React, Angular, NestJS, AdonisJS, Firebase. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.
 
 In my spare time, I like to watch movies or listen to Audio Stories.
 
 #### 🧐 More About Me:
 
-- 🔭 I’m currently working on Laravel and Flutter💎
+- 🔭 I’m currently working on NodeJS/NestJS and Flutter💎
 - 🌱 I’m currently improving my skills in Machine Learning and Artificial Intelligence.
 - 👯 I’m looking to collaborate with other content creators on <a href="https://www.youtube.com/channel/UCsDIhSYNds3TcIJVUmx9RrA?sub_confirmation=1">YouTube</a>.
 - 💬 Ask me about Flutter or Laravel and I will answer eagerly! ✌😁
@@ -19,8 +19,9 @@ In my spare time, I like to watch movies or listen to Audio Stories.
 ### ⚡ Talk With Me About:
 
 - Creating scalable apps and improving their performance.
+- Backend and Frontend Development.
 - SQL and NoSQL Database Management Systems.
-- Desktop application development using Flutter.
+- Multiplatform application development using Flutter.
 - Cool full-stack projects.
 - Problem solving and data structures questions.
 - Movies! 😆.
@@ -30,8 +31,11 @@ In my spare time, I like to watch movies or listen to Audio Stories.
 ### 🧰 Languages & Tools
 <br/>
 <p align="center">
-        <a href="https://php.net" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40" /></a>   
-        <a href="https://laravel.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40" /></a>
+        <!--<a href="https://php.net" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40" /></a>   
+        <a href="https://laravel.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40" /></a> -->
+        <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" alt="nodejs" width="40" height="40" /></a>
+        <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
+        <a href="https://nestjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="express" width="40" height="40" />
         <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
         </a>
         <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
@@ -45,11 +49,7 @@ In my spare time, I like to watch movies or listen to Audio Stories.
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
         <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
         <a href="https://angular.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40" /> </a>
-        <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" alt="nodejs" width="40" height="40" /> </a>
-        <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a>
         <a href="https://graphql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" /> </a>
-        <a href="https://nestjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="express" width="40" height="40" />
-        </a>
         <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
         <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
         </a>

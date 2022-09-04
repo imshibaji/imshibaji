@@ -16,6 +16,17 @@ In my spare time, I like to watch movies or listen to Audio Stories.
 
 ---
 
+### Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/shibaji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlomigueldy" height="30" width="40" /></a>
+<a href="https://twitter.com/shibaji_debnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carlomigueldy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCsDIhSYNds3TcIJVUmx9RrA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shibajidebnath" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCsDIhSYNds3TcIJVUmx9RrA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shibajidebnath" height="30" width="40" /></a>
+<a href="https://dev.to/imshibaji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="carlomigueldy" height="30" width="40" /></a>
+</p>
+
+---
+
 ### ⚡ Talk With Me About:
 
 - Creating scalable apps and improving their performance.
@@ -64,16 +75,4 @@ In my spare time, I like to watch movies or listen to Audio Stories.
         </a>
         <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
         </a>
-     
-     
-</p>
-
----
-### Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/shibaji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlomigueldy" height="30" width="40" /></a>
-<a href="https://twitter.com/shibaji_debnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carlomigueldy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCsDIhSYNds3TcIJVUmx9RrA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shibajidebnath" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCsDIhSYNds3TcIJVUmx9RrA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shibajidebnath" height="30" width="40" /></a>
-<a href="https://dev.to/imshibaji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="carlomigueldy" height="30" width="40" /></a>
 </p>

@@ -28,6 +28,11 @@ In my spare time, I like to watch movies or listen to Audio Stories.
 
 ---
 
+### Github Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=imshibaji)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 🧰 Languages & Tools
 <br/>
 <p align="center">

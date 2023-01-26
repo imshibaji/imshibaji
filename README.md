@@ -51,6 +51,7 @@ In my spare time, I like to watch movies or listen to Audio Stories.
         <a href="https://laravel.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40" /></a> -->
         <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" alt="nodejs" width="40" height="40" /></a>
         <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
+        <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40" />
         <a href="https://nestjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="express" width="40" height="40" />
         <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
         </a>

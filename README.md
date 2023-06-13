@@ -6,7 +6,7 @@ In my spare time, I like to watch movies or listen to Audio Stories.
 
 #### 🧐 More About Me:
 
-- 🔭 I’m currently working on NodeJS/NestJS and Flutter💎
+- 🔭 I’m currently working on Angular, NodeJS/NestJS and Flutter💎
 - 🌱 I’m currently improving my skills in Machine Learning and Artificial Intelligence.
 - 👯 I’m looking to collaborate with other content creators on <a href="https://www.youtube.com/channel/UCsDIhSYNds3TcIJVUmx9RrA?sub_confirmation=1">YouTube</a>.
 - 💬 Ask me about Flutter or Laravel and I will answer eagerly! ✌😁

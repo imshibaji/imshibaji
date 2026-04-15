@@ -17,13 +17,24 @@ In my spare time, I like to watch movies or listen to Audio Stories.
 ---
 
 ### Connect With Me
-<div style="display: flex; justify-content: space-around; align-items: center;">
+<!--<div style="display: flex; justify-content: space-around; align-items: center;">
 <a href="https://www.linkedin.com/in/shibaji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlomigueldy" height="30" width="40" /></a>
 <a href="https://twitter.com/shibaji_debnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carlomigueldy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCsDIhSYNds3TcIJVUmx9RrA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shibajidebnath" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCsDIhSYNds3TcIJVUmx9RrA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shibajidebnath" height="30" width="40" /></a>
 <a href="https://dev.to/imshibaji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="carlomigueldy" height="30" width="40" /></a>
-</div>
+</div> -->
+
+<table>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/shibaji/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a></td>
+    <td><a href="https://twitter.com/shibaji_debnath" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a></td>
+    <td><a href="https://www.youtube.com/channel/UCsDIhSYNds3TcIJVUmx9RrA" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a></td>
+    <td><a href="https://www.youtube.com/channel/UCsDIhSYNds3TcIJVUmx9RrA" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a></td>
+    <td><a href="https://dev.to/imshibaji" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devto" height="30" width="40" /></a></td>
+  </tr>
+</table>
+
 
 ---
 

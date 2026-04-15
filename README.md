@@ -17,7 +17,7 @@ In my spare time, I like to watch movies or listen to Audio Stories.
 ---
 
 ### Connect With Me
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; justify-content: space-around; align-items: center;">
 <a href="https://www.linkedin.com/in/shibaji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlomigueldy" height="30" width="40" /></a>
 <a href="https://twitter.com/shibaji_debnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carlomigueldy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCsDIhSYNds3TcIJVUmx9RrA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shibajidebnath" height="30" width="40" /></a>
@@ -46,7 +46,7 @@ In my spare time, I like to watch movies or listen to Audio Stories.
 
 ### 🧰 Languages & Tools
 <br/>
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; justify-content: space-around; align-items: center;">
         <!--<a href="https://php.net" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40" /></a>   
         <a href="https://laravel.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40" /></a> -->
         <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" alt="nodejs" width="40" height="40" /></a>
